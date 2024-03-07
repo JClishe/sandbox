@@ -1,0 +1,623 @@
+{
+    "public_identifier": "jclishe",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jclishe/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240306%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240306T182750Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1fcb46b74fe13f4961cad4a792f202766849d2427e99031e23bb7ba937dee000",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jclishe/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240306%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240306T182750Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b0be407222f19862078586a009fe7e567842b87dad44d215536ab6bbd6647b26",
+    "first_name": "Jason",
+    "last_name": "Clishe",
+    "full_name": "Jason Clishe",
+    "follower_count": null,
+    "occupation": "Cloud Solution Architect at CDW",
+    "headline": "Cloud Solution Architect at CDW",
+    "summary": "IT Professional with 20 years of experience working with Microsoft technologies in many capacities.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Morrow",
+    "state": "Ohio",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "company": "CDW",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cdw",
+            "title": "Cloud Solution Architect",
+            "description": "I help to bridge the gap between a customers business and technical objectives, to cloud solutions on Azure AWS GCP. I am primarily responsible for scoping CDW's Professional and Managed Services engagements.",
+            "location": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGWkaaHlaz8pQ/company-logo_100_100/0/1519855858103?e=1656547200&v=beta&t=EE95ayrJsGje1gLcgytnhfsHaGf9XsxLo5BbqVfQ1b8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "CDW",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cdw",
+            "title": "Customer Success Manager",
+            "description": "As a Customer Success Manager, I help customers  successfully define,  implement, and adopt their cloud strategies, focusing on Microsoft cloud technologies.",
+            "location": "Cincinnati, OH",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGWkaaHlaz8pQ/company-logo_100_100/0/1519855858103?e=1656547200&v=beta&t=EE95ayrJsGje1gLcgytnhfsHaGf9XsxLo5BbqVfQ1b8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "CDW",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cdw",
+            "title": "Microsoft Field Solutions Architect",
+            "description": "Technical sales specialist responsible for the sales of Microsoft products and services in southern and central Ohio.",
+            "location": "Cincinnati Area, KY",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGWkaaHlaz8pQ/company-logo_100_100/0/1519855858103?e=1656547200&v=beta&t=EE95ayrJsGje1gLcgytnhfsHaGf9XsxLo5BbqVfQ1b8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "The Flying Neutrons",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/theflyingneutrons",
+            "title": "Pilot",
+            "description": "I am a member and pilot at The Flying Neutrons flying club in Lebanon, Ohio. Founded in 1952, we are one of the longest running flying clubs in the United States.",
+            "location": "Lebanon, Ohio",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQENd3FQda1u1Q/company-logo_100_100/0/1519933367922?e=1656547200&v=beta&t=eEitb3mxo6paBxs1MdW1OnXIBOznjUX0zPbgduaXHJ0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2015
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+            "title": "Partner Technology Strategist",
+            "description": "I am responsible for developing and enabling cloud practices and capabilities within the Ohio managed partner portfolio. Primarily accomplished by:\n\n     - Training the leadership and sales teams on Microsoft cloud technologies - mainly Office 365 and Azure - and business value conversations\n     - Strategizing on next-logical practices to build based on a partners existing capabilities, growth initiatives, and market trends\n     - Marketing event planning and coordination as well as speaking at partner led marketing events\n     - Customer-facing sales activities with partners (sales calls, envisioning workshops, planning sessions, etc.)\n     - Learning path development for technical delivery teams\n\nI also regularly speak at Microsoft-led marketing events and training programs, and have presented to audiences in the hundreds on a wide range of infrastructure and cloud technologies, as well as working with our marketing organization to create and review delivery and demo content.",
+            "location": "Cincinnati, Ohio Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1656547200&v=beta&t=ByWtUmxk2KVVG1xn_zrUtAGlHFdd4BLwIlWacGcTaH4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "Microsoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+            "title": "Server Solution Specialist",
+            "description": "I provided technical pre-sales support for the Windows Server platform, virtualization, the System Center Suite, the Forefront suite, and SQL Server to mid-market customers throughout Ohio, Kentucky, and Tennessee. I worked with IT leaders and C-level executives to present the value of Microsoft's server solutions, and engaged partners into opportunities to drive post-sale implementation and deployment conversations.",
+            "location": "Cincinnati, Ohio Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_100_100/0/1618231291419?e=1656547200&v=beta&t=ByWtUmxk2KVVG1xn_zrUtAGlHFdd4BLwIlWacGcTaH4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2008
+            },
+            "company": "M3 Technology Group",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/m3-technology-group",
+            "title": "Professional Services Consultant",
+            "description": "Responsible for the architecture and deployment of Microsoft Exchange 2007 implementations, including migrations from legacy versions of Exchange as well as competitive platforms such as Lotus Notes.\n\nI worked on a 30,000 mailbox Lotus Notes to Exchange migration for a global automotive supplier based out of Detroit. \n\nI was contracted by Microsoft to write internal process and procedure documentation for their Business Productivity Online Suite (BPOS - the predecessor to Office 365) migration teams based in Winnipeg. Spent 6 weeks in Winnipeg working side by side with migration engineers to refine and document their processes, document internal knowledge base and support articles, and train new migration engineers.",
+            "location": "Cincinnati, Ohio Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFoLriuB4UjDw/company-logo_100_100/0/1519856630316?e=1656547200&v=beta&t=QZMP6ZliD45jOC1tOwcNKTO90rdfxawx1Xi0wTp4smY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2008
+            },
+            "company": "NuSoft Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nusoft-solutions",
+            "title": "Regional Services Manager",
+            "description": "I relocated to Cincinnati to help launch our new Cincinnati office. Managed the delivery team in our Cincinnati office, consisting of all Microsoft-based Infrastructure, development, and business intelligence consultants. Day to day responsibilities encompassed all operational aspects of the Cincinnati branch including P&L ownership, recruiting, customer satisfaction, employee development / performance management, and resource allocation / scheduling.\n\nI was also the primary technical pre-sales lead for the branch and worked closely with our account executives to position our infrastructure consulting services, author statements of work, and review / approve statements of work that were written by consultants on my team.",
+            "location": "Cincinnati, Ohio Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2007
+            },
+            "company": "NuSoft Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nusoft-solutions",
+            "title": "Advanced Infrastructure Practice Manager",
+            "description": "Responsible for the operations of the Advanced Infrastructure practice, which designed and deployed Microsoft-based infrastructure solutions as well as Cisco networking technology. Day to day responsibilities included managing on average 20 billable infrastructure consultants, managing the P&L for the practice, recruiting, customer satisfaction, business development, and employee development and performance management.\n\nI was also the primary technical pre-sales resource for the infrastructure practice, wrote the majority of our statements of work, and approved all statements of work written by the infrastructure architects on my team prior to customer delivery.",
+            "location": "Greater Detroit Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2005
+            },
+            "company": "NuSoft Solutions",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nusoft-solutions",
+            "title": "Principal Consultant",
+            "description": "Designed and implemented Microsoft-based infrastructure solutions such as Active Directory, Exchange Server, Systems Management Server (SMS), Microsoft Operations Manager (MOM), and Windows client deployments. Also served in a technical pre-sales capacity, creating work estimates and authoring statements of work.",
+            "location": "Greater Detroit Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2003
+            },
+            "company": "Analysts International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/analysts-international-corporation-aic-",
+            "title": "Senior Systems Engineer",
+            "description": "Designed, deployed, and administered Microsoft Windows NT / 2000, Exchange 5.5 / 2000, and SMS 2.0 environments for organizations throughout southeast Michigan.\n\nI worked on dozens of Microsoft infrastructure projects, troubleshooting calls, and help desk staffing assignments. Billed time at over 100 different customers while in this role.",
+            "location": "Auburn Hills, MI",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEKWkDmeX7LGg/company-logo_100_100/0/1519912422021?e=1656547200&v=beta&t=7waGxNeysJUpdZO-3lAHgNPJ0-9_6q1PLWUSgN9yjfQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "Business",
+            "degree_name": "BBA",
+            "school": "Baker College Business and Corporate Services",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/baker-college-business-and-corporate-services/",
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2010
+            },
+            "title": "Board Member",
+            "cause": "Health",
+            "company": "JDRF International",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/jdrf",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE9ERiLTpuieg/company-logo_100_100/0/1561393083096?e=1656547200&v=beta&t=HbVuYqLdxqbCREffNsg_KuJYK-7BA5tbNe6vWWLH8YE"
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "license_number": "7vAZGoNN1A",
+            "display_source": "www.credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/497c1ac6-b2ab-4bc5-a6f7-77c91a5eb897?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Immersion Experience Qualified Facilitator",
+            "license_number": null,
+            "display_source": "www.youracclaim.com",
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/fc61e01c-8328-47a9-a8ac-5762706ff99d/linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2015
+            },
+            "ends_at": null,
+            "name": "Implementing Microsoft Azure Infrastructure Solutions",
+            "license_number": "F333-1961",
+            "display_source": "www.credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/223e4730-d222-42bf-a094-46c5d5cb7502"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2024
+            },
+            "name": "AWS Certified Cloud Practitioner",
+            "license_number": "F333-1961",
+            "display_source": "www.credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/73afff02-e74f-462c-82fe-62a54e43e2af?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2024
+            },
+            "name": "Associate Cloud Engineer",
+            "license_number": "48577767",
+            "display_source": "www.credential.net",
+            "authority": "Google Cloud",
+            "url": "https://www.credential.net/2b37cb35-aa3f-4e65-97a1-15621abab0a3"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Customer Immersion Experience (CIE) US Qualified Facilitator",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Microsoft",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "HashiCorp SE 101",
+            "license_number": "7vAZGoNN1A",
+            "display_source": "hashicorp-academy-1.workramp.io",
+            "authority": "HashiCorp",
+            "url": "https://hashicorp-academy-1.workramp.io/certificate/7vAZGoNN1A"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/marie-miller-b6b76233",
+            "name": "Marie Miller",
+            "summary": "IT Developer/Engineer at Hewlett-Packard",
+            "location": "Bethlehem, PA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/keith-frazier-111a99104",
+            "name": "Keith Frazier",
+            "summary": "Sr. Engineer at CDW",
+            "location": "Winchester, VA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nathan-baker-505111164",
+            "name": "Nathan Baker",
+            "summary": "Account Manager at CDW covering Tribal Entities",
+            "location": "Reston, VA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/chuckmahon",
+            "name": "Chuck Mahon",
+            "summary": "Region Operations Director -  United States Air Force (Department of Air Force Civilian)",
+            "location": "Cincinnati, OH"
+        },
+        {
+            "link": "https://www.linkedin.com/in/benjaminmoore",
+            "name": "Benjamin Moore, CCSP, CMMC-RP",
+            "summary": "Principal Field Solution Architect - Microsoft Endpoint & Security",
+            "location": "California, KY"
+        },
+        {
+            "link": "https://www.linkedin.com/in/swiatkaren",
+            "name": "Karen Thorson (Swiat), MBA",
+            "summary": "CDW Digital Velocity Solutions - Regional Manager, Cloud Solution Architect - West & South",
+            "location": "Lake Zurich, IL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/johnica",
+            "name": "Johnica Burke-Smith",
+            "summary": "Microsoft Whisperer (Software Solutions Executive) - Western North Carolina, South Carolina",
+            "location": "Charlotte Metro"
+        },
+        {
+            "link": "https://www.linkedin.com/in/erikrosspgh",
+            "name": "Erik Ross",
+            "summary": "Principal Cloud Solution Architect at CDW",
+            "location": "Greater Pittsburgh Region"
+        },
+        {
+            "link": "https://www.linkedin.com/in/cjpaladino",
+            "name": "CJ Paladino",
+            "summary": "Principal Cloud Solution Architect at CDW",
+            "location": "Santa Monica, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/gary-gauthier-a1334221",
+            "name": "Gary Gauthier",
+            "summary": "Designing highly available, fault tolerant solutions on the 3 major public cloud platforms. Ask me about how CDW's Digital Velocity team can help your organization with its digital and modernization journey.",
+            "location": "Grand Rapids, MI"
+        },
+        {
+            "link": "https://www.linkedin.com/in/hanh-n-le",
+            "name": "Hanh Le, PMP",
+            "summary": "Professional Services Manager - Integrated Technology Solutions at CDW",
+            "location": "Katy, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/brent-blawat-03aab12",
+            "name": "Brent Blawat",
+            "summary": "Multi-Cloud Principal Cloud Solution Architect at CDW | Integrated Solutions",
+            "location": "Waukesha, WI"
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeremy-neukirch-401b727",
+            "name": "Jeremy Neukirch",
+            "summary": "Distinguished Cloud Solution Architect at CDW",
+            "location": "Naperville, IL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/andrea-mk-bingham",
+            "name": "Andrea Bingham",
+            "summary": "Collaborative program management, driving proactive, technical customer events centered on today\u2019s best solutions and hottest topics",
+            "location": "Greater Chicago Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/matsims",
+            "name": "Matt Sims",
+            "summary": "Empowering healthcare organizations to achieve more with Microsoft Teams Phone",
+            "location": "Milwaukee, WI"
+        },
+        {
+            "link": "https://www.linkedin.com/in/roberthaines",
+            "name": "Robert Haines",
+            "summary": "MasterSolver (Now at Faye)",
+            "location": "Tempe, AZ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/matthewzipse",
+            "name": "Matt Zipse",
+            "summary": "Manager, Customer Success; Head of Customer Success - West at Wrike",
+            "location": "San Diego, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/bmylroie",
+            "name": "Beau Mylroie",
+            "summary": "Principal Success Manager",
+            "location": "Bend, OR"
+        },
+        {
+            "link": "https://www.linkedin.com/in/debbievm",
+            "name": "Debbie Vinton-Meier",
+            "summary": "Business Program Director at Microsoft",
+            "location": "Greater Chicago Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/sseerapu",
+            "name": "Sudharshan Seerapu",
+            "summary": "Senior Strategic Customer Success Manager at Tableau Software",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/jeremy-whiting-35562aa7",
+            "name": "Jeremy Whiting",
+            "summary": "Principal Field Solution Architect - Azure at CDW",
+            "location": "Surprise, AZ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/sergey-kulyasov-b1373a20",
+            "name": "Sergey Kulyasov",
+            "summary": "Technical Lead, Unified Communications at CDW",
+            "location": "Carlsbad, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/danielccisneros",
+            "name": "Daniel Cisneros",
+            "summary": "A new journey for the new year.",
+            "location": "San Diego, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/tran0422",
+            "name": "\u262f Tai Tran",
+            "summary": "Consulting Engineer at CDW | PCNSE | CCNP Security | Sec+",
+            "location": "San Diego, CA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/stevenharvey21",
+            "name": "Steven Harvey",
+            "summary": "Associate Consulting Engineer - Enterprise Network and Wireless Solutions",
+            "location": "Raleigh, NC"
+        },
+        {
+            "link": "https://www.linkedin.com/in/bhargav-patel-07508672",
+            "name": "Bhargav Patel",
+            "summary": "Data Scientist at AbbVie",
+            "location": "Greater Chicago Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/kimjamesj",
+            "name": "James Kim",
+            "summary": "Business & Technology Professional | Senior Procurement Specialist",
+            "location": "Greater Chicago Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/kishorkumars",
+            "name": "Kishor Kumar Sridhar",
+            "summary": "Data Scientist | M.S. in Information Systems | Minor in Statistics | 3+ years of experience",
+            "location": "Ames, IA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/cory-mince-6a84023a",
+            "name": "Cory Mince",
+            "summary": "Inside Solution Architect - Microsoft Azure",
+            "location": "Greater Chicago Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ross-kotten-759792102",
+            "name": "Ross Kotten",
+            "summary": "Empowering customers to achieve business goals and solve technology challenges",
+            "location": "Reston, VA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/david-whitaker-71027252",
+            "name": "David Whitaker",
+            "summary": "Retired Broadcaster",
+            "location": "Sarasota, FL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/newmanpatrick",
+            "name": "Patrick Newman",
+            "summary": "tech level 1 at CDW",
+            "location": "Libertyville, IL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/drew-mcmahon-9610b335",
+            "name": "Drew McMahon",
+            "summary": "Field Solution Architect  at CDW",
+            "location": "Evanston, IL"
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5607AQHX6r3nrztYeA/group-logo_image-shrink_200x200/0/1631402038389?e=1648818000&v=beta&t=eAexoBo3PJEWedExY8ajlyfEsxjqZeSw_v7GaPaSke8",
+            "name": "SE - Software Pre-Sales",
+            "url": "https://www.linkedin.com/groups/1897916"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQFm6OazjVNNng/group-logo_image-shrink_200x200/0/1631362142463?e=1648818000&v=beta&t=uCPanLIc0xF0oTpwVqujpEnPigqklSLmUQSzBdp8E1Q",
+            "name": "Microsoft Office 365",
+            "url": "https://www.linkedin.com/groups/3724282"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQFN0Qcz9H9UAQ/group-logo_image-shrink_200x200/0/1631372616614?e=1648818000&v=beta&t=dPzBA4qD3Rt59UgnLFW3AnihRdZmoay31VElypFvLCY",
+            "name": "Manager Tools",
+            "url": "https://www.linkedin.com/groups/31013"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQGT2MkrxTSrVQ/group-logo_image-shrink_200x200/0/1631362892672?e=1648818000&v=beta&t=ksmYSHiZk2099VDtNjo3jQNBvGCOwKAi9-v8p7oAAuM",
+            "name": "The Flying Neutrons",
+            "url": "https://www.linkedin.com/groups/4961377"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQE_A1y2KY2z4g/group-logo_image-shrink_92x92/0/1631001162978?e=1648818000&v=beta&t=WF8eVbF75luRjR1M2ci6mdAL_nWoTWJDoegSZBxGBAQ",
+            "name": "Great Demo!",
+            "url": "https://www.linkedin.com/groups/2430414"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5607AQET24MjvCIOpA/group-logo_image-shrink_92x92/0/1631009783256?e=1648818000&v=beta&t=d1dgGyEDSzHDFcgKQZ0sKNoNyzivcLNK-4SejuRS8L4",
+            "name": "Microsoft US Partner Community",
+            "url": "https://www.linkedin.com/groups/3468863"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHrBG9rVbLY2A/group-logo_image-shrink_200x200/0/1631365577954?e=1648818000&v=beta&t=RMPhHNYbKxhgmReVotpJqnqQSznR4c7rdk4B_uyJwGA",
+            "name": "Microsoft Partner Network",
+            "url": "https://www.linkedin.com/groups/82575"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHQ7XaaMj0MQQ/group-logo_image-shrink_200x200/0/1631363052178?e=1648818000&v=beta&t=2xINQdzMvZG02xJllH1jofgPF7QqzHac3OzjRSFYQHA",
+            "name": "Microsoft - Current and Former Employees",
+            "url": "https://www.linkedin.com/groups/119215"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5607AQFOryhRJscK6w/group-logo_image-shrink_200x200/0/1631402206647?e=1648818000&v=beta&t=DHkxpgHts-OpUKjBJ27igx9N9S7XJW3joLQj-tmwkFU",
+            "name": "Cloud Computing Open Community",
+            "url": "https://www.linkedin.com/groups/1861715"
+        },
+        {
+            "profile_pic_url": "https://static-exp1.licdn.com/sc/h/4h1ldzvvebtszyx75ve7dst1v",
+            "name": "Microsoft Azure & Microsoft Cloud",
+            "url": "https://www.linkedin.com/groups/1120997"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQHeiXyVz5HpGg/group-logo_image-shrink_200x200/0/1631362113585?e=1648818000&v=beta&t=vlyWnxmaPa-X-lfzSZGez6dkc0kWkbECshPp1G7MuPU",
+            "name": "Presales Community Forum",
+            "url": "https://www.linkedin.com/groups/2415644"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQG37VB8M0OUdA/group-logo_image-shrink_200x200/0/1631366309621?e=1648818000&v=beta&t=jEG92Pk9aoiMMMFFu0K__FMAFZk7n9I4C5Bt9RmTg2Y",
+            "name": "Cloud Computing, Cybersecurity, SaaS, Data Centre & Virtualization",
+            "url": "https://www.linkedin.com/groups/45151"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
