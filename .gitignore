@@ -35,4 +35,5 @@ terraform.rc
 
 # Secrets
 credentials.json
+.env 
 
